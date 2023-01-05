@@ -126,9 +126,9 @@ sortBtn.addEventListener('click', () => {
 
 // colors
 let p = 'whitesmoke'
-let p1 = '#ff8ba0'
-let p2 = '#86003c'
-let sorted = '#e41f7b'
+let p1 = '#3b7beb'
+let p2 = '#75eba2'
+let sorted = '#03fcf0'
 let heap = 'whitesmoke'
 
 // Bubble Sort
